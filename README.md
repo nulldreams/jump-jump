@@ -1,20 +1,10 @@
-# Phaser 3 + ES6 + Webpack Boilerplate
-A boilerplate project for creating games with Phaser3, ES6 and Webpack.
-
-## Setup
-
-### Environment
-Requires node.js and npm to be installed: https://nodejs.org/en/
-
-### Download repo
-From your workspace directory run:
-
-`git clone https://github.com/jedhastwell/phaser3-es6-webpack-boilerplate.git`
+# Phaser Study
+Demo: https://jumpjump.netlify.app/
 
 ### Install Dependencies
 From the project directory run:
 
-`npm install`
+`npm install` or `yarn`
 
 ## Usage
 
@@ -23,11 +13,11 @@ Starts a development server that will automatically refresh the page as you make
 
 To start the server run:
 
-`npm run start`
+`npm run start` or `yarn start`
 
 ### Distribution
 Bundles and minimises scripts and outputs them along with a copy of the assets/ folder to output directory dist/.
 
 To build for distribution run:
 
-`npm run build`
+`npm run build` or `yarn build`
